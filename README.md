@@ -21,12 +21,8 @@ The panel on the right is focused to contain all of the properties of the select
 ![image](https://user-images.githubusercontent.com/34818078/34656868-b0b88aaa-f3d4-11e7-87b5-410382542d6b.png)
 
 
-# Installation
+# Help Information
 
-1. Download and install Blender. (It is important to know that Blender Application Templates can only be installed on Blender 2.79 and above.)
+View the wiki for help documentation.
 
-2. Download the Printing 3D Application Template, and save it to your computer.
-
-3. Go to File > Application Templates > Install Application Template
-
-4. Browse to the zip file you downloaded in step 2.
+https://github.com/BlenderPro/Printing3D/wiki
